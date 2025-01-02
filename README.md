@@ -68,6 +68,4 @@ Follow prompts based on your selection (e.g., enter personal info for booking).
 
 To exit the application, select 0.
 
-License
 
-This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
